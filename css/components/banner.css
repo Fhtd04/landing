@@ -1,0 +1,22 @@
+.banner {
+  background-image: url("../../images/food.jpg");
+  background-size: cover;
+  background-position: center;
+  padding: 110px 0;
+}
+
+.banner h1 {
+  color: white;
+  text-shadow: 1px 1px 3px grey;
+  font-size: 46px;
+  margin-left: 10px;
+}
+
+.banner p {
+  color: white;
+  opacity: .8;
+  font-size: 20px;
+  text-shadow: 1px 1px 3px grey;
+  font-style: italic;
+  margin-left: 10px;
+}
